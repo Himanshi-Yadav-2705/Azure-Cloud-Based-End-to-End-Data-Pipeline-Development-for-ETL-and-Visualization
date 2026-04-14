@@ -1,1 +1,24 @@
 # Azure-Cloud-Based-End-to-End-Data-Pipeline-Development-for-ETL-and-Visualization
+
+🚀 Project Highlight: Azure End to End Data Pipeline for ETL and Visualization Project ☁️
+
+I’m excited to share my recent project where I developed a complete cloud-based data pipeline on Microsoft Azure, designed to streamline data extraction, transformation, loading (ETL), and visualization processes.
+
+Key highlights of the project:
+1. Designed and developed an end-to-end cloud-based ETL data pipeline on Microsoft Azure for efficient data extraction, transformation, and loading.
+2. Implemented the Medallion Architecture (Bronze, Silver, and Gold layers) to ensure data quality, scalability, and reliability across stages.
+3. Enabled incremental data loading to optimize processing time and system performance.
+4. Designed and implemented a dimensional data model (Star Schema) to support analytical reporting and business intelligence use cases.
+5. Managed Slowly Changing Dimensions (SCD) to maintain accuracy of business data.
+6. Utilized PySpark for distributed data processing within a clustered cloud environment to handle large-scale datasets efficiently.
+7. Developed Power BI Reports to visualize insights derived from the enriched Gold layer data for decision-making.
+
+This project enhanced my understanding of data engineering workflows, cloud architecture, and analytics integration, helping transform raw data into meaningful business insights.
+
+You can explore the full demo and code here:
+🎥 Video Demo: https://lnkd.in/gjPePdRE
+
+📂 GitHub Repository: https://lnkd.in/gShD5vGK
+
+
+hashtag#DataEngineering hashtag#Azure hashtag#ETL hashtag#PySpark hashtag#PowerBI hashtag#CloudComputing hashtag#DataPipeline hashtag#MedallionArchitecture hashtag#StarSchema hashtag#Analytics
